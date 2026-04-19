@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - 🌱 I’m currently learning **TypeScript, System Design, and Scalable Backend Architecture**
 - 👯 I’m looking to collaborate on **Backend Projects using Node.js, Express, REST APIs, and Databases (MongoDB / MySQL)**
