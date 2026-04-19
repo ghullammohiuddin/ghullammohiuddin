@@ -6,6 +6,17 @@
   </a>
 </p>
 
+<img src="none" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🌱 I’m currently learning **TypeScript, System Design, and Scalable Backend Architecture**
+- 👯 I’m looking to collaborate on **Backend Projects using Node.js, Express, REST APIs, and Databases (MongoDB / MySQL)**
+- 🤝 I’m looking for help with **Advanced Backend Concepts, System Design, and Production-level Best Practices**
+- 💬 Ask me about **Node.js, Express.js, REST APIs, and Database Design**
+- 📫 How to reach me **ghullam.mohiuddin77@gmail.com**
+- ⚡ Fun fact **I focus on designing systems before building them**
+
+
 ## 🧠 My Focus Areas
 - Backend Development
 - System Design
