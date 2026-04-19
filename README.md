@@ -14,15 +14,15 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/ghullammohiuddin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ghullammohiuddin&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="ghullammohiuddin's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ghullammohiuddin&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="ghullammohiuddin's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ghullammohiuddin&theme=prussian&hide_border=true&cache_seconds=86400" alt="ghullammohiuddin's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ghullammohiuddin&theme=monokai&hide_border=true&cache_seconds=86400" alt="ghullammohiuddin's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ghullammohiuddin&theme=prussian&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ghullam Mohiuddin's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=ghullammohiuddin&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ghullam Mohiuddin's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ghullammohiuddin&theme=prussian&radius=10" alt="ghullammohiuddin's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ghullammohiuddin&theme=monokai&radius=10" alt="ghullammohiuddin's Activity Graph" />
 </p>
 
 
@@ -31,6 +31,7 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 
 </p>
@@ -67,13 +68,14 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 
 </p>
 
 <p align="center">
   <a href="https://github.com/ghullammohiuddin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghullammohiuddin&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghullammohiuddin&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
