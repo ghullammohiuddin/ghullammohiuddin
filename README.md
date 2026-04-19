@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 🧠 My Focus Areas
 - Backend Development
 - System Design
