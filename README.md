@@ -1,107 +1,89 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ghullam%20Mohiuddin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-## 📌 About Me
-- 🌱 I’m currently learning **TypeScript, System Design, and Scalable Backend Architecture**
-- 👯 I’m looking to collaborate on **Backend Projects using Node.js, Express, REST APIs, and Databases (MongoDB / MySQL)**
-- 🤝 I’m looking for help with **Advanced Backend Concepts, System Design, and Production-level Best Practices**
-- 💬 Ask me about **Node.js, Express.js, REST APIs, and Database Design**
-- 📫 How to reach me **ghullam.mohiuddin77@gmail.com**
-- ⚡ Fun fact **I focus on designing systems before building them**
+<h1 align="center">Hi, I'm Ghullam Mohiuddin 👋</h1>
 
-
-## 🧠 My Focus Areas
-- Backend Development
-- System Design
-
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/ghullammohiuddin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ghullammohiuddin&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="ghullammohiuddin's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ghullammohiuddin&theme=monokai&hide_border=true&cache_seconds=86400" alt="ghullammohiuddin's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ghullammohiuddin&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ghullam Mohiuddin's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ghullammohiuddin&theme=monokai&radius=10" alt="ghullammohiuddin's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-
+  <b>Backend Developer · RESTful APIs · TypeScript Enthusiast</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ghullammohiuddin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghullammohiuddin&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
-  </a>
+  <a href="mailto:ghullam.mohiuddin99@gmail.com"><img src="https://img.shields.io/badge/Email-ghullam.mohiuddin99%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ghullam-mohiuddin-0916bb377/"><img src="https://img.shields.io/badge/LinkedIn-Ghullam%20Mohiuddin-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-## 🔗 Connect with Me
+---
+
+## 🧑‍💻 About Me
+
+- ⚙️ Backend Developer with **3 years of coding experience**, focused on building secure and scalable **RESTful APIs**
+- 💻 Daily drivers: **JavaScript, TypeScript, Node.js**
+- 🌱 Currently learning **NestJS**, system design, and backend architecture
+- 🤖 Interested in **AI-powered applications**, scalable backend systems, and clean software architecture
+- 🌏 Based in **Nawabshah, Pakistan**
+- 📫 Reach me: **ghullam.mohiuddin99@gmail.com**
+
+## 🚀 Featured Projects
+
+Here are a couple of projects that showcase my backend development skills.
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**blog-RESTful-API**](https://github.com/ghullammohiuddin/blog-RESTful-API) | Production-ready RESTful API for a blogging platform featuring authentication, authorization, and scalable architecture | Node.js · Express.js · MongoDB |
+| [**task-manager-api**](https://github.com/ghullammohiuddin/task-manager-api) | Secure and scalable RESTful API for managing tasks with authentication and CRUD operations | Node.js · Express.js · MongoDB |
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS">
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+## 📊 Stats
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=271448813" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=271448813&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @ghullammohiuddin" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=271448813&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghullam-mohiuddin-0916bb377/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ghullam.mohiuddin77@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mohiuddin-dev.vercel.app">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
+  <i>"Building reliable backends today, designing intelligent systems for tomorrow."</i> 🚀
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
-
+```
